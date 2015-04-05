@@ -35,7 +35,7 @@ at the Open Science Codefest.
 
 Data Format 
 =========== 
-Data is in the Common Crawl Architecture
+Data is in the [Common Crawl Architecture](https://wiki.apache.org/nutch/CommonCrawlDataDumper)
 specification, according to the Memex format.
 
 Each dataset has an accompanying JSON file that lists the total records,
@@ -146,5 +146,6 @@ Total: 1,741,530 records
 
 Data Size 
 ========= 
-This dataset consists of 158Gb of data in the Common
-Crawl Architecture format.
+This dataset consists of 158Gb of data in the [Common
+Crawl Architecture[(https://wiki.apache.org/nutch/CommonCrawlDataDumper)
+format.

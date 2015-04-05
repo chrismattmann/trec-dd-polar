@@ -150,4 +150,4 @@ Data Size
 ========= 
 This dataset consists of 158Gb of data in the [Common
 Crawl Architecture](https://wiki.apache.org/nutch/CommonCrawlDataDumper)
-format.
+format and 1,741,530 records.

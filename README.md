@@ -26,9 +26,9 @@ Contributing Teams
 Additional Contributions 
 ======================== 
 Dr. Mattmann's student,
-[Angela Wang](https://github.com/snowangelmy/), 
-contributed 3 datasets.  2 crawls of ACADIS and one of
-NASA AMD.
+[Angela Wang](https://github.com/snowangelwmy/), 
+contributed 3 datasets. [2 crawls of ACADIS and one of
+NASA AMD](https://github.com/snowangelwmy/csci572dr).
 
 Dr. Mattmann himself also contributed a dataset crawl of ADE, performed
 at the Open Science Codefest.

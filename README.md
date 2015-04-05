@@ -30,8 +30,10 @@ Dr. Mattmann's student,
 contributed 3 datasets. [2 crawls of ACADIS and one of
 NASA AMD](https://github.com/snowangelwmy/csci572dr).
 
-Dr. Mattmann himself also contributed a dataset crawl of ADE, performed
-at the Open Science Codefest.
+Dr. Mattmann himself also contributed a dataset crawl of [ADE](http://nsidc.org/acadis/search/), 
+performed at the [Open Science Codefest](http://nceas.github.io/open-science-codefest/) and 
+at the [NSF DataViz Hackathon for Polar CyberInfrastructure]
+(http://nsf-polar-cyberinfrastructure.github.io/datavis-hackathon/).
 
 Data Format 
 =========== 

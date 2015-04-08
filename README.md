@@ -15,12 +15,13 @@ Contributing Teams
 * team16
 * team18
 * team22
+* team24
 * team29 
 * team34 
 * team36 
 * team41 
 * team42 
-* team43 
+* team43
 * team6
 
 Additional Contributions 

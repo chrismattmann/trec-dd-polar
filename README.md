@@ -14,7 +14,9 @@ This dataset is a collection of web crawls from three primary sources:
 
 Each web crawl used [Apache Nutch](http://nutch.apache.org/) as the core framework for web crawling and [Apache Tika](http://tika.apache.org/) as the main content detection and extraction framework. Nutch is a distributed search engine that runs on top of [Apache Hadoop](http://hadoop.apache.org/). Apache Tika is an open source framework for metadata exploration, automatic text mining, and information retrieval.
 
-Web crawls were focused on three polar data repositories: the National Science Foundation Advanced Cooperative Arctic Data and Information System ([ACADIS](https://www.aoncadis.org/home.htm)), the National Snow and Ice Data Center (NSIDC) Arctic Data Explorer ([ADE](http://nsidc.org/acadis/search/)), and the National Aeronautics and Space Administration Antarctic Master Directory ([AMD](http://gcmd.gsfc.nasa.gov/KeywordSearch/Home.do?Portal=amd&MetadataType=0)).  This dataset contains 1,741,530 records (158 GB) from a diverse set of file types related to Polar science, including scientific-data formats such as NetCDF, HDF, and Matlab across the three Polar science data repositories, which themselves are largely uncoordinated.
+Web crawls were focused on three polar data repositories: the National Science Foundation Advanced Cooperative Arctic Data and Information System ([ACADIS](https://www.aoncadis.org/home.htm)), the National Snow and Ice Data Center (NSIDC) Arctic Data Explorer ([ADE](http://nsidc.org/acadis/search/)), and the National Aeronautics and Space Administration Antarctic Master Directory ([AMD](http://gcmd.gsfc.nasa.gov/KeywordSearch/Home.do?Portal=amd&MetadataType=0)).  
+
+The finished Polar dataset is composed of 17 distinct web crawls, containing 1,741,530 records (158 GB) across the three Polar science data repositories, which themselves are largely uncoordinated.
 
 ##Processing Crawled Data:
 

@@ -2,7 +2,7 @@
 
 ##Purpose of data:
 
-Climate change is amplified in the Polar Regions.  Polar amplification is captured via space and airborne remote sensing, in-situ measurement, and climate modeling. Beyond the rich literature that documents changing Polar climate, each method of Polar-data collection produces a diverse set of data types, ranging from text-based metadata to more complex numeric data structures. Because finding these data is often a primary challenge in scientific discovery, inclusion of the Polar Science dataset in TREC-DD would help advance science through data discovery and provide TREC-DD a new challenge in in the realm of search relevancy. 
+Climate change is amplified in the Polar Regions.  Polar amplification is captured via space and airborne remote sensing, in-situ measurement, and climate modeling. Beyond the rich literature that documents changing Polar climate, each method of Polar-data collection produces a diverse set of data types, ranging from text-based metadata to more complex numeric data structures. Because finding these data is often a primary challenge in scientific discovery, inclusion of the Polar dataset in TREC-DD would help advance science through data discovery and provide TREC-DD a new challenge in in the realm of search relevancy. 
 
 ##Dataset Description:
 

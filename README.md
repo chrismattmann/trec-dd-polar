@@ -151,9 +151,9 @@ Total: 1,741,530 records
 The team list was generated using the following command:
 ``` ls | cut -d"-" -f2 | grep -v "json" | grep -v "py" | grep -v ade | grep -v acadis | grep -v amd | uniq | sort ```
 
-###Additional Contributors
->Lavina Advani, Mohammad Al-Mohsin, Chandrashekar Chimbili, Saurabh Gadia, Shashank Harinath, Chitra Arun Kumar, Chris Mattmann
+###Individual Contributors
+Lavina Advani, Mohammad Al-Mohsin, Chandrashekar Chimbili, Saurabh Gadia, Shashank Harinath, Chitra Arun Kumar, Chris Mattmann
 Lewis  McGibbney, Indu Mohanan, Pradeep Muruganandam ,Subodh Sah, Mike Starch, Praneet Surana, Mahesh Goud Tandarpally, Giuseppe Totaro, Rishi Verma, Mengying Wang, Tianxiang Yu, Jiaheng Zhang
 
 ##Funding Sources
-This work was partially supported by the National Science Foundation Polar Cyberinfrastructure program under NSF award numbers PLR-1348450 and PLR-144562.  In addition the DARPA XDATA/Memex program funded a portion of the work. Effort supported in part by the Jet Propulsion Laboratory, managed by the California Institute of Technology on behalf of the National Aeronautics and Space Administration. 
+>This work was partially supported by the National Science Foundation Polar Cyberinfrastructure program under NSF award numbers PLR-1348450 and PLR-144562.  In addition the DARPA XDATA/Memex program funded a portion of the work. Effort supported in part by the Jet Propulsion Laboratory, managed by the California Institute of Technology on behalf of the National Aeronautics and Space Administration. 

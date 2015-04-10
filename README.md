@@ -2,18 +2,14 @@
 
 ##Purpose of data:
 
-Climate change is amplified in the Polar Regions.  Polar amplification is captured via space and airborne remote sensing, in-situ measurement, and climate modeling. Beyond the rich literature that documents changing Polar regions, each method of Polar-data collection produces a diverse set of data types, ranging from text-based metadata to more complex numeric data structures. Because finding these data is often a primary challenge in scientific discovery, inclusion of the Polar dataset in TREC-DD would help advance science through data discovery and provide TREC-DD a new challenge in in the realm of search relevancy. 
+Climate change is amplified in the Polar Regions.  Polar amplification is captured via space and airborne remote sensing, in-situ measurement, and climate modeling. Beyond the rich literature that documents changing Polar regions, each method of Polar-data collection produces a diverse set of data types, ranging from text-based metadata to more complex data structures (e.g. HDF, NetCDF, GRIB). Because finding these data is often a primary challenge in scientific discovery, inclusion of the Polar dataset in TREC-DD would help advance science through data discovery and provide TREC-DD a new challenge in in the realm of search relevancy. 
 
 ##Dataset Description:
 
 This dataset is a collection of web crawls from three primary sources: 
-
->1. Dr. Chris Mattmann's crawl [ADE](http://nsidc.org/acadis/search/), performed at the [Open Science Codefest](http://nceas.github.io/open-science-codefest/) and 
-at the [NSF DataViz Hackathon for Polar CyberInfrastructure]
+>1. Dr. Chris Mattmann's crawl of [ADE](http://nsidc.org/acadis/search/), performed at the [Open Science Codefest](http://nceas.github.io/open-science-codefest/) and at the [NSF DataViz Hackathon for Polar CyberInfrastructure]
 (http://nsf-polar-cyberinfrastructure.github.io/datavis-hackathon/)
->2. Dr. Mattmann's student [Angela Wang](https://github.com/snowangelwmy/), 
-contributed 3 datasets. [2 crawls of ACADIS and one of
-NASA AMD](https://github.com/snowangelwmy/csci572dr).
+>2. Dr. Mattmann's student [Angela Wang](https://github.com/snowangelwmy/), contributed 3 datasets: [2 crawls of ACADIS and one of NASA AMD](https://github.com/snowangelwmy/csci572dr).
 >3. Dr. Mattmann's [CSCI 572 Course at USC](http://sunset.usc.edu/classes/cs572_2015/), students submitted 13 individual crawls of NASA ACADIS, NSIDC ADE, and AMD.
 
 Each web crawl used [Apache Nutch](http://nutch.apache.org/) as the core framework for web crawling and [Apache Tika](http://tika.apache.org/) as the main content detection and extraction framework. Nutch is a distributed search engine that runs on top of [Apache Hadoop](http://hadoop.apache.org/). Apache Tika is an open source framework for metadata exploration, automatic text mining, and information retrieval.

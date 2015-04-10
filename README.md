@@ -27,7 +27,7 @@ Exact duplicate records were removed using signature based methods.  Algorithms 
 
 Crawled data were put into Common Crawl Format, acording to Memex format, using the [CommonCrawlDataDumper] (https://wiki.apache.org/nutch/CommonCrawlDataDumper). The CommonCrawlDataDumper is an Apache Nutch tool that can dump Nutch segments into Common Crawl data format, mapping each crawled-by-Nutch file on a JSON-based data structure. CommonCrawlDataDumper dumps out the files and serialize them with CBOR encoding, a data representation format used in many contexts.
 
-Each contributed web crawl has an accompanying JSON file that lists the total records, by mimeType. A program, aggregate.py, aggregates all of the JSON files.  Total records at time of generation is provided below:
+Each contributed web crawl has an accompanying JSON file that lists the total records, by mimeType. A program, aggregate.py, aggregates all of the JSON files.  Total records at time of generation are provided below:
 
 ``` 
 Total: 1,741,530 records

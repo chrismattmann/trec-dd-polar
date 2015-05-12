@@ -1,0 +1,21 @@
+[
+    {"mimeType":"application/x-tar","count":"1"},
+    {"mimeType":"application/x-tika-msoffice","count":"11"},
+    {"mimeType":"application/vnd.google-earth.kml+xml","count":"6"},
+    {"mimeType":"application/x-compress","count":"1"},
+    {"mimeType":"application/x-shockwave-flash","count":"2"},
+    {"mimeType":"application/xhtml+xml","count":"4079"},
+    {"mimeType":"application/octet-stream","count":"7461"},
+    {"mimeType":"application/x-sh","count":"937"},
+    {"mimeType":"application/zip","count":"3"},
+    {"mimeType":"application/xml","count":"3723"},
+    {"mimeType":"application/atom+xml","count":"7"},
+    {"mimeType":"application/rss+xml","count":"119"},
+    {"mimeType":"video/mp4","count":"1"},
+    {"mimeType":"text/plain","count":"1973"},
+    {"mimeType":"application/rdf+xml","count":"1"},
+    {"mimeType":"application/x-tika-ooxml","count":"4"},
+    {"mimeType":"text/html","count":"3424"},
+    {"mimeType":"application/pdf","count":"338"},
+    {"mimeType":"audio/mpeg","count":"1"}
+]

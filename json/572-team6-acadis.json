@@ -1,0 +1,22 @@
+[
+    {"mimeType":"application/x-tika-msoffice","count":"17"},
+    {"mimeType":"application/vnd.ms-excel","count":"7"},
+    {"mimeType":"application/xhtml+xml","count":"3000"},
+    {"mimeType":"application/octet-stream","count":"641"},
+    {"mimeType":"application/epub+zip","count":"1"},
+    {"mimeType":"application/zip","count":"6"},
+    {"mimeType":"application/xml","count":"11"},
+    {"mimeType":"image/png","count":"110"},
+    {"mimeType":"image/jpeg","count":"70"},
+    {"mimeType":"application/atom+xml","count":"213"},
+    {"mimeType":"application/rss+xml","count":"43"},
+    {"mimeType":"video/mp4","count":"3"},
+    {"mimeType":"text/plain","count":"104"},
+    {"mimeType":"application/rdf+xml","count":"2"},
+    {"mimeType":"image/gif","count":"2"},
+    {"mimeType":"text/x-php","count":"1"},
+    {"mimeType":"video/x-msvideo","count":"1"},
+    {"mimeType":"application/x-tika-ooxml","count":"3"},
+    {"mimeType":"text/html","count":"9506"},
+    {"mimeType":"application/pdf","count":"280"}
+]

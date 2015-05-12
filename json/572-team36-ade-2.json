@@ -1,0 +1,19 @@
+[
+    {"mimeType":"application/x-tika-msoffice","count":"1"},
+    {"mimeType":"application/x-elc","count":"3"},
+    {"mimeType":"application/vnd.ms-excel","count":"1"},
+    {"mimeType":"application/x-msdownload; format=pe32","count":"1"},
+    {"mimeType":"image/vnd.microsoft.icon","count":"7"},
+    {"mimeType":"application/xhtml+xml","count":"454"},
+    {"mimeType":"application/x-java-jnilib","count":"1"},
+    {"mimeType":"application/octet-stream","count":"170"},
+    {"mimeType":"application/xml","count":"11"},
+    {"mimeType":"image/png","count":"76"},
+    {"mimeType":"image/jpeg","count":"113"},
+    {"mimeType":"application/atom+xml","count":"1"},
+    {"mimeType":"application/rss+xml","count":"8"},
+    {"mimeType":"text/plain","count":"4961"},
+    {"mimeType":"image/gif","count":"10"},
+    {"mimeType":"text/html","count":"2161"},
+    {"mimeType":"application/pdf","count":"52"}
+]

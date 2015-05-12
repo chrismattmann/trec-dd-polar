@@ -1,0 +1,12 @@
+[
+    {"mimeType":"application/xml","count":"9"},
+    {"mimeType":"image/png","count":"5"},
+    {"mimeType":"image/jpeg","count":"16"},
+    {"mimeType":"application/rss+xml","count":"10"},
+    {"mimeType":"text/plain","count":"34"},
+    {"mimeType":"application/xhtml+xml","count":"388"},
+    {"mimeType":"application/octet-stream","count":"11"},
+    {"mimeType":"text/html","count":"241"},
+    {"mimeType":"application/pdf","count":"10"},
+    {"mimeType":"application/zip","count":"1"}
+]

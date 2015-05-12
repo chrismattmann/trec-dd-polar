@@ -1,0 +1,11 @@
+[
+    {"mimeType":"application/xml","count":"351"},
+    {"mimeType":"application/atom+xml","count":"1"},
+    {"mimeType":"text/plain","count":"176"},
+    {"mimeType":"application/xhtml+xml","count":"994"},
+    {"mimeType":"application/octet-stream","count":"1392"},
+    {"mimeType":"application/x-tika-ooxml","count":"1"},
+    {"mimeType":"application/pdf","count":"1"},
+    {"mimeType":"application/x-sh","count":"146"},
+    {"mimeType":"application/zip","count":"136"}
+]

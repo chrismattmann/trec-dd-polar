@@ -1,0 +1,14 @@
+[
+    {"mimeType":"application/xml","count":"3374"},
+    {"mimeType":"image/png","count":"3"},
+    {"mimeType":"application/rss+xml","count":"1"},
+    {"mimeType":"application/atom+xml","count":"13"},
+    {"mimeType":"text/plain","count":"1945"},
+    {"mimeType":"image/gif","count":"1504"},
+    {"mimeType":"application/xhtml+xml","count":"11588"},
+    {"mimeType":"application/octet-stream","count":"22838"},
+    {"mimeType":"text/html","count":"22910"},
+    {"mimeType":"application/x-tika-ooxml","count":"1"},
+    {"mimeType":"application/x-sh","count":"971"},
+    {"mimeType":"application/pdf","count":"1"}
+]

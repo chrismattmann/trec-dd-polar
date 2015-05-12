@@ -1,0 +1,14 @@
+[
+    {"mimeType":"message/rfc822","count":"13"},
+    {"mimeType":"application/xml","count":"13"},
+    {"mimeType":"application/x-tika-msoffice","count":"2"},
+    {"mimeType":"image/jpeg","count":"87"},
+    {"mimeType":"image/png","count":"21"},
+    {"mimeType":"application/rss+xml","count":"2"},
+    {"mimeType":"text/plain","count":"9106"},
+    {"mimeType":"application/xhtml+xml","count":"405"},
+    {"mimeType":"application/x-java-jnilib","count":"1"},
+    {"mimeType":"application/octet-stream","count":"61"},
+    {"mimeType":"text/html","count":"2394"},
+    {"mimeType":"application/pdf","count":"61"}
+]

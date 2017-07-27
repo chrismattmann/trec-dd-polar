@@ -131,7 +131,7 @@ Total: 1,741,530 records
 }
 ```
 
-## Data Location
+## Downloading the Dataset
 
 The data is stored in [Amazon's Simple Cloud Storage Service - S3](https://aws.amazon.com/s3/) at the following URL(s):
 

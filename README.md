@@ -136,11 +136,24 @@ Total: 1,741,530 records
 The data is stored in [Amazon's Simple Cloud Storage Service - S3](https://aws.amazon.com/s3/) at the following URL(s):
 
 ```
-s3://latest-commoncrawl / - The NSF TREC DD Polar Dataset in Common Crawl/CBOR format
+s3://latest-commoncrawl/ - The NSF TREC DD Polar Dataset in Common Crawl/CBOR format
 s3://mc-data-nsf/ - Raw Nutch Hadoop HDFS segment files from crawling. 
 s3://polar-fulldump/ - A subset of the latest Common Crawl in CBOR format.
 ```
 Please contact [Chris Mattmann](mailto:mattmann@usc.edu) for access to the S3 keys necessary to download the data.
+
+## Citation
+
+If you use this dataset in your research, please cite our TREC 2015 paper:
+
+```
+@inproceedings{burgess2015trec,
+  title={TREC Dynamic Domain: Polar Science.},
+  author={Burgess, Annie Bryant and Mattmann, Chris and Totaro, Giuseppe and McGibbney, Lewis John and Ramirez, Paul M},
+  booktitle={TREC},
+  year={2015}
+}
+```
 
 ## Contributors: 
 

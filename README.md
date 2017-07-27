@@ -1,10 +1,10 @@
-#TREC Dynamic Domain Polar Dataset
+# TREC Dynamic Domain Polar Dataset
 
-##Purpose of data:
+## Purpose of data:
 
 Climate change is amplified in the Polar Regions.  Polar amplification is captured via space and airborne remote sensing, in-situ measurement, and climate modeling. Beyond the rich literature that documents changing Polar regions, each method of Polar-data collection produces a diverse set of data types, ranging from text-based metadata to more complex data structures (e.g. HDF, NetCDF, GRIB). Because finding these data is often a primary challenge in scientific discovery, inclusion of the Polar dataset in TREC-DD would help advance science through data discovery and provide TREC-DD a new challenge in in the realm of search relevancy. 
 
-##Dataset Description:
+## Dataset Description:
 
 This dataset is a collection of web crawls from three primary sources: 
 >1. Dr. Chris Mattmann's crawl of [ADE](http://nsidc.org/acadis/search/), performed at the [Open Science Codefest](http://nceas.github.io/open-science-codefest/) and at the [NSF DataViz Hackathon for Polar CyberInfrastructure]
@@ -18,12 +18,12 @@ Web crawls were focused on three polar data repositories: the National Science F
 
 The finished Polar dataset is composed of 17 distinct web crawls, containing 1,741,530 records (158 GB) across the three Polar science data repositories, which themselves are largely uncoordinated.
 
-##Processing Crawled Data:
+## Processing Crawled Data:
 
-###Duplicate Records
+### Duplicate Records
 Exact duplicate records were removed using signature based methods.  Algorithms and accompanying code were developed to remove near duplicates, using jaccard similarity, by graduate students in USC CS572. However, not all teams that submitted web crawls to this dataset applied their jaccard-similarity algorithms.
 
-###Data Format:
+### Data Format:
 
 Crawled data were put into Common Crawl Format, acording to Memex format, using the [CommonCrawlDataDumper] (https://wiki.apache.org/nutch/CommonCrawlDataDumper). The CommonCrawlDataDumper is an Apache Nutch tool that can dump Nutch segments into Common Crawl data format, mapping each crawled-by-Nutch file on a JSON-based data structure. CommonCrawlDataDumper dumps out the files and serialize them with CBOR encoding, a data representation format used in many contexts.
 
@@ -131,9 +131,20 @@ Total: 1,741,530 records
 }
 ```
 
-##Contributors: 
+## Data Location
 
-###USC CS572 Teams  
+The data is stored in [Amazon's Simple Cloud Storage Service - S3](https://aws.amazon.com/s3/) at the following URL(s):
+
+```
+s3://latest-commoncrawl / - The NSF TREC DD Polar Dataset in Common Crawl/CBOR format
+s3://mc-data-nsf/ - Raw Nutch Hadoop HDFS segment files from crawling. 
+s3://polar-fulldump/ - A subset of the latest Common Crawl in CBOR format.
+```
+Please contact [Chris Mattmann](mailto:mattmann@usc.edu) for access to the S3 keys necessary to download the data.
+
+## Contributors: 
+
+### USC CS572 Teams  
 * team1 
 * team14 
 * team16
@@ -151,9 +162,9 @@ Total: 1,741,530 records
 The team list was generated using the following command:
 ``` ls | cut -d"-" -f2 | grep -v "json" | grep -v "py" | grep -v ade | grep -v acadis | grep -v amd | uniq | sort ```
 
-###Individual Contributors
+### Individual Contributors
 Lavina Advani, Mohammad Al-Mohsin, Chandrashekar Chimbili, Saurabh Gadia, Shashank Harinath, Chitra Arun Kumar, Chris Mattmann
 Lewis  McGibbney, Indu Mohanan, Pradeep Muruganandam ,Subodh Sah, Mike Starch, Praneet Surana, Mahesh Goud Tandarpally, Giuseppe Totaro, Rishi Verma, Mengying Wang, Tianxiang Yu, Jiaheng Zhang
 
-##Funding Sources:
+## Funding Sources:
 This work was partially supported by the National Science Foundation Polar Cyberinfrastructure program under NSF award numbers PLR-1348450 and PLR-144562.  In addition the DARPA XDATA/Memex program funded a portion of the work. Effort supported in part by the Jet Propulsion Laboratory, managed by the California Institute of Technology on behalf of the National Aeronautics and Space Administration. 

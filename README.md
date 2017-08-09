@@ -7,8 +7,7 @@ Climate change is amplified in the Polar Regions.  Polar amplification is captur
 ## Dataset Description:
 
 This dataset is a collection of web crawls from three primary sources: 
->1. Dr. Chris Mattmann's crawl of [ADE](http://nsidc.org/acadis/search/), performed at the [Open Science Codefest](http://nceas.github.io/open-science-codefest/) and at the [NSF DataViz Hackathon for Polar CyberInfrastructure]
-(http://nsf-polar-cyberinfrastructure.github.io/datavis-hackathon/)
+>1. Dr. Chris Mattmann's crawl of [ADE](http://nsidc.org/acadis/search/), performed at the [Open Science Codefest](http://nceas.github.io/open-science-codefest/) and at the [NSF DataViz Hackathon for Polar CyberInfrastructure](http://nsf-polar-cyberinfrastructure.github.io/datavis-hackathon/)
 >2. Dr. Mattmann's student [Angela Wang](https://github.com/snowangelwmy/), contributed 3 datasets: [2 crawls of ACADIS and one of NASA AMD](https://github.com/snowangelwmy/csci572dr).
 >3. Dr. Mattmann's [CSCI 572 Course at USC](http://sunset.usc.edu/classes/cs572_2015/), students submitted 13 individual crawls of NASA ACADIS, NSIDC ADE, and AMD.
 

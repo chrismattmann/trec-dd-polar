@@ -141,7 +141,7 @@ s3://polar-fulldump/ - A subset of the latest Common Crawl in CBOR format.
 ```
 Please contact [Chris Mattmann](mailto:mattmann@usc.edu) for access to the S3 keys necessary to download the data from Amazon. 
 
-The data is also now available from the [NSF funded Arctic Data Center](http://arcticdata.io). You can find the data there [available as a zip file](https://arcticdata.io/catalog/#view/doi:10.18739/A2280J) along with its metadata. 
+The data is also now available from the [NSF funded Arctic Data Center](http://arcticdata.io). You can find the data there [available as a zip file](https://arcticdata.io/catalog/#view/doi:10.18739/A2280J) along with its metadata. In addition, the Arctic Data Center hosts [an aggregate dataset](https://arcticdata.io/catalog/#view/urn:uuid:eba0560a-bc76-4ec8-8a6c-0e8b90fa3ae1) of the work from our NSF-funded Polar CyberInfrastructure effort. This includes the [Data Driven Documents (D3)](http://d3js.org/) web visualizations that [we created](https://arcticdata.io/catalog/#view/doi:10.18739/A2B84J) to explore the TREC-DD-Polar data.
 
 ## Citation
 
